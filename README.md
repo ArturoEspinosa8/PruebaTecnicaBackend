@@ -13,7 +13,9 @@ Para instalar el proyecto se debe clonar inicialmente el repositorio. Luego ejec
 
     composer install
 
-Se debe configurar la base de datos editanto el archivo .env y cambiar el nombre a la base de datos que se desea crear
+Se debe configurar la base de datos para esto se debe crear el archivo .env y copiar el contenido del archivo .env.example al .env. 
+
+Luego se debe onfigurar la base de datos la direccion y nombre correspondiente.
 
 ## Migraciones Laravel
 
