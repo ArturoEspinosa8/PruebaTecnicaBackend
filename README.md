@@ -36,6 +36,6 @@ Finalmente para levantar el servidor se debe usar el comando:
 
 La base de datos contara con 3 usuarios inicialmente generados con el seed:
 
--user:admin@gmail.com pass:123123123 rol:administrador
--user:user@gmail.com  pass:123123123 rol:usuario comun
--user:user2@gmail.com pass:123123123 rol:usuario comun
+*user:admin@gmail.com pass:123123123 rol:administrador
+*user:user@gmail.com  pass:123123123 rol:usuario comun
+*user:user2@gmail.com pass:123123123 rol:usuario comun
